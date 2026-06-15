@@ -26,16 +26,14 @@ The cases act as a clamp and ledge for the pcb to hold it in place:
 <img width="100%" height="626" alt="image" src="https://github.com/user-attachments/assets/99cfee4c-9b92-4364-90db-2e59e7ae3a15" />
 
 Bill Of Materials: 
-
-1x Seeed XIAO RP2040
-1x 0.91" OLED
-9x MX style 1u switches
-9x white blank DSA keycaps
-9x SK6812 Mini-E LEDs
-10x 1N4148 DO-35 Diodes
-1x EC11E Rotary Encoder (With Push Button)
-1x Top case(3D printed)
-1x Middle case(3D printed)
-1x Bottom case(3D printed)
-4x M3x5mx4mm heatset inserts
+1x Seeed XIAO RP2040  
+1x 0.91" OLED9x MX style 1u switches  
+9x white blank DSA keycaps  
+9x SK6812 Mini-E LEDs  
+10x 1N4148 DO-35 Diodes  
+1x EC11E Rotary Encoder (With Push Button)  
+1x Top case(3D printed)  
+1x Middle case(3D printed)  
+1x Bottom case(3D printed)  
+4x M3x5mx4mm heatset inserts  
 4x M3x6mm screws
