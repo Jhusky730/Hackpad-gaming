@@ -36,4 +36,4 @@ Bill Of Materials:
 1x Middle case(3D printed)  
 1x Bottom case(3D printed)  
 4x M3x5mx4mm heatset inserts  
-4x M3x6mm screws
+4x M3x6mm screws (I will buy these)
